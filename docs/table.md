@@ -50,20 +50,11 @@
 |---|---|---|---|---|---|
 |1|2|1|2023/04/17 21:00:00|2023/04/17 21:00:00| |
 
-## followersテーブル
+## following_listsテーブル
 
-|ID|user_id|follower_user_id|
+|ID|following_user_id|follower_user_id|
 |---|---|---|
 |1|1|2|
 |2|2|1|
 |3|1|3|
 |4|2|3|
-
-## followsテーブル
-
-|ID|user_id|follow_user_id|
-|---|---|---|
-|1|1|2|
-|2|2|1|
-|3|3|1|
-|4|3|2|
