@@ -1,3 +1,5 @@
+## ER図
+https://app.diagrams.net/#Hckym02%2Ftweet%2Fmain%2Fdocs%2Ftweet_er.drawio.svg
 ## usersテーブル
 
 |ID|ユーザ名|メールアドレス|電話番号|パスワード|作成日時|更新日時|削除日時|
